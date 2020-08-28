@@ -23,3 +23,9 @@
 2. 初始化项目
 
    npx react-native init [项目名称] --template [本地目录/react-native-template-scaffold]
+
+   例如:
+
+   npx react-native init newchannel --template **file://**/Users/yimiao/Documents/haobrother/tests/react/react-native-template-scaffold
+
+   注意使用本地模版需要在路径前方加file://
