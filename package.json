@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-scaffold",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:haobrother/react-native-template-scaffold.git",
+  "author": "haobrother <haobrother@live.com>",
+  "license": "MIT"
+}
