@@ -20,7 +20,9 @@
 
 1. 拉取项目代码到本地,并进入该代码所在的目录
 
-2. 初始化项目
+2. 配置CocoaPods的[清华镜像源](https://mirror.tuna.tsinghua.edu.cn/help/CocoaPods/)
+
+3. 初始化项目
 
    npx react-native init [项目名称] --template [本地目录/react-native-template-scaffold]
 
@@ -28,4 +30,6 @@
 
    npx react-native init newchannel --template **file://**/Users/yimiao/Documents/haobrother/tests/react/react-native-template-scaffold
 
-   注意使用本地模版需要在路径前方加file://
+   **PS:** 注意上面例子中的本地目录需要换成你的目录路径
+
+   **PS:** 注意使用本地模版需要在路径前方加file://
