@@ -24,6 +24,8 @@
 
 3. 初始化项目
 
+   > **请在初始化项目之前卸载原来全局安装的react-native-cli: npm uninstall -g react-native-cli**
+
    npx react-native init [项目名称] --template [本地目录/react-native-template-scaffold]
 
    例如:
