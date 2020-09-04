@@ -5,7 +5,7 @@
 ## 特性
 
 - React 16.13.1
-- React Native 0.62.3
+- React Native 0.63.2
 - 页面路由: React Navigation
 - 状态管理: React Redux
 - 持久化存储: Async Storage
