@@ -13,6 +13,7 @@
 - 时间处理: Day.js
 - 数据模拟: Mock.js
 - 类型检查: TypeScript
+- 路径映射: 默认对 src/以及 src/components 进行映射
 - 代码检查 & 格式化: ESLint + Prettier
 - 通用样式管理(尺寸,颜色,布局)
 - 对主流分辨率屏幕进行自适应
